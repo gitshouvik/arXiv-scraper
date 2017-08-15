@@ -6,7 +6,7 @@ To list them in a random order use :
 ```sh
 $ python hepth-scraper.py r
 ```
-To list them in a original order as on the webpage use :
+To list them in the original order as on the webpage use :
 ```sh
 $ python hepth-scraper.py n
 ```
